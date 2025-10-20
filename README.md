@@ -37,4 +37,4 @@ https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/GeoMIP/CCCma/CanESM5/
 
 2. Quantify the **sensitivity of GPP to ENSO events** using linear regression, identifying differences in ENSO–GPP relationships among the three scenarios.
 
-3. Conduct **spatial distribution and attribution analyses** to identify regional differences in ENSO–GPP sensitivity and examine underlying drivers (**temperature and precipitation**) responsible for changes in sensitivity under the geoengineering scenario (SRM).
+3. Conduct **spatial distribution and attribution analyses** to identify regional differences in ENSO–GPP sensitivity and examine underlying drivers (**temperature and precipitation**) responsible for changes in sensitivity under the geoengineering scenario (G1).
