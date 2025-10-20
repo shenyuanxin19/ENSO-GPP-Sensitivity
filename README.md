@@ -2,7 +2,7 @@
 
 ## The goal
 
-This study investigates how the **El Niño-Southern Oscillation (ENSO)** affects the interannual variability of tropical terrestrial carbon flux (**GPP**). Specifically, we aim to understand if **solar radiation management (SRM)** geoengineering can effectively reduce the sensitivity of terrestrial ecosystems to ENSO under high-CO₂ conditions. We hypothesize that geoengineering will significantly reduce ENSO's negative impact on tropical ecosystems by controlling temperature increases caused by elevated CO₂ levels.
+This study investigates how the **El Niño-Southern Oscillation (ENSO)** affects the interannual variability of tropical terrestrial carbon flux (**GPP**). Specifically, we aim to understand if **solar radiation management (SRM) geoengineering** can effectively reduce the sensitivity of terrestrial ecosystems to ENSO under high-CO₂ conditions. We hypothesize that geoengineering will significantly reduce ENSO's negative impact on tropical ecosystems by controlling temperature increases caused by elevated CO₂ levels.
 
 ## Data sources
 
@@ -33,7 +33,7 @@ https://esgf.ceda.ac.uk/thredds/fileServer/esg_cmip6/CMIP6/GeoMIP/CCCma/CanESM5/
 
 ## Planned analysis
 
-1. Calculate and visualize **ENSO indices** (DJF Niño3.4 SST anomalies) and annual variations of tropical terrestrial carbon flux (**GPP**), comparing their variability across three climate scenarios (piControl, abrupt-4×CO₂, and G1).
+1. Calculate and visualize **ENSO indices** and annual variations of tropical terrestrial carbon flux (**GPP**), comparing their variability across three climate scenarios (piControl, abrupt-4×CO₂, and G1).
 
 2. Quantify the **sensitivity of GPP to ENSO events** using linear regression, identifying differences in ENSO–GPP relationships among the three scenarios.
 
